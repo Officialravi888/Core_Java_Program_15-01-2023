@@ -1,2 +1,5 @@
-package org.example.Chapter1;public class FirstProgram {
+package org.example.Chapter1;
+
+public class FirstProgram {
+
 }
